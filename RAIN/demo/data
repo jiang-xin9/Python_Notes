@@ -1,0 +1,8 @@
+# 关键字驱动的脚本
+# action,object,parameters
+goto,https://www.baidu.com
+input,id=username,admin
+input,id=password,admin123
+input,id=verifycode,0000
+singleclick,id=aaa
+delay,1
