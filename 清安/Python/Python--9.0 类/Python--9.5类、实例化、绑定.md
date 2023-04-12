@@ -13,7 +13,7 @@ class Person:
 print(Person)  # 打印类标识符
 print(Person.__name__)  # 成员属性
 print(Person.__class__, type(Person))  # 这两一回事,都是type
-print(Person.__doc__, Person.show.__doc__)  # 9.0 类/方法文档，
+print(Person.__doc__, Person.show.__doc__)  # Python--9.0 类/方法文档，
 print(Person.x)
 ```
 代码中不可以直接外部访问的意思是：
