@@ -1,5 +1,10 @@
 ### 前言
   🌟 适用版本Python 3.9.5(写笔记的时候适用版本就是3.9.5，只要版本不低都可以)，内设Java笔记(清欢栏目)
+
+  🌟 Python的.md文件还请clone后，使用markdown查看，或者使用edge的插件
+    ![img.png](edge插件图1.png)
+
+    ![img.png](edge插件图2.png)
   
   🌟 "一群不正经的测试会写一些实用的笔记"
 
