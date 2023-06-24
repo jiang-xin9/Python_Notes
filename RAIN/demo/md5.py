@@ -17,5 +17,6 @@ class Md5:
         }
         resp=requests.post("http://www.fanyunedu.com:5000/general/userinfo_sign",json=data)
         print(resp.text)
+        #测试测试测试测试
 if __name__ == '__main__':
     Md5.test_md5()
