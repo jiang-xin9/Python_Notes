@@ -16,6 +16,7 @@ def run_case_from_txt(driver):
                 break
             else:
                 print('命令执行成功')
+                #测试测试测试测试
 if __name__ == '__main__':
     driver=webdriver.Chrome()
     run_case_from_txt(driver)
